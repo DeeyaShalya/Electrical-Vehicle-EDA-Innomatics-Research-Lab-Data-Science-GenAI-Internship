@@ -1,4 +1,4 @@
-#Exploratory Data Analysis (EDA) 🧑‍💻📊
+#Exploratory Data Analysis (EDA) 🧑‍💻📊#
 
 Welcome to the Exploratory Data Analysis (EDA) project, where we dive deep into understanding and visualizing a dataset to gain critical insights! This project is ideal for anyone interested in learning how to approach data, analyze patterns, and uncover hidden trends. Whether you're a recruiter, a developer, or someone new to the field, this README will guide you through everything you need to know about the project. 😄
 
